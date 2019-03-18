@@ -1,23 +1,23 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Mr. Chocolate", 1 , " boy", "black", "angry", true);
+VALUES ("Mr. Chocolate", 1 , " boy", "black", "angry", 1);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Rowdy", 1 , " boy", "black", "angry", true);
+VALUES ("Rowdy", 1 , " boy", "black", "angry", 1);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Tabitha", 1 , " boy", "black", "angry", true);
+VALUES ("Tabitha", 1 , " boy", "black", "angry", 1);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Sergeant Brown", 1 , " boy", "black", "angry", true);
+VALUES ("Sergeant Brown", 1 , " boy", "black", "angry", 1);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Melissa", 1 , " boy", "black", "angry", true);
+VALUES ("Melissa", 1 , " boy", "black", "angry", 1);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Grinch", 1 , " boy", "black", "angry", true);
+VALUES ("Grinch", 1 , " boy", "black", "angry", 1);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Wendy", 1 , " boy", "black", "angry", true);
+VALUES ("Wendy", 1 , " boy", "black", "angry", 0);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES (NULL, 1 , " boy", "black", "angry", false);
+VALUES (NULL, 1 , " boy", "black", "angry", 0);
